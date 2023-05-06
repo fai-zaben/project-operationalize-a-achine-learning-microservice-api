@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+CircleCI status badge
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/fai-zaben/project-operationalize-a-achine-learning-microservice-api/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/fai-zaben/project-operationalize-a-achine-learning-microservice-api/tree/main)
 
 ## Project Overview
 
