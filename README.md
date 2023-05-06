@@ -43,3 +43,6 @@ make install
 ./run_kubernetes.sh
 ```
 
+### Repo Files
+
+This repo contains the app tself as well as necessary scrpt to run and containerize the app
