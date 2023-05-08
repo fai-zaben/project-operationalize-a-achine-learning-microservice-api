@@ -3,11 +3,11 @@ CircleCI status badge
 
 ## Project Overview
 
-### summary of the project
+### Summary of the project
 
 Containerizing a Python flask app which is pre-trained, sklearn model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on.
 
-### Pre-reguest: Python 3.7
+### Pre-requesties: Python 3.7
 
 ### Instructions
 1. clone repo locally
@@ -17,7 +17,7 @@ Containerizing a Python flask app which is pre-trained, sklearn model that has b
 make setup
 ```
 
-3. install dependencies using the folowng command:
+3. install dependencies using the following command:
 
 ```
 make install
@@ -45,4 +45,4 @@ make install
 
 ### Repo Files
 
-This repo contains the app tself as well as necessary scrpt to run and containerize the app
+This repository contains the app itself as well as all the necessary scripts to run, containerize and deploy the app.
