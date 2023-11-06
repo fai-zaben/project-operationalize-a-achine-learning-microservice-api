@@ -5,7 +5,7 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath="satrcodes/project"
+dockerpath="faizaben/project"
 
 # Step 2:  
 # Authenticate & tag
